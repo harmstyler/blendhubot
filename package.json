@@ -20,7 +20,7 @@
     "optparse":      "1.0.3",
     "hubot-hall": "latest",
     "scraper": "0.0.9",
-    "xml2js": ">=0.2.6"
+    "xml2js": "0.1.14"
   },
 
   "engines": {
